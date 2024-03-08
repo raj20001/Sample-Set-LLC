@@ -14,6 +14,6 @@ Q2] Sentiment Analysis <br>
 1] Around 68% customer reviews are positive. <br>
 2] Class name skirts, lounge, knits have more positive reviews compared to others <br> 
 3] People above age 85 are generally positive with whatever they order <br>
-4] The negative sentiment in customers is generally because of incorrect size, colour, fitting, unsatisfactory cloth fabric, clothes not suiting looks and in online orders where the product didnt turn out to be same as shown online.  
-
+4] The negative sentiment in customers could be attributed to incorrect size, colour, fitting, unsatisfactory cloth fabric, clothes not suiting looks and in online orders where the product didnt turn out to be same as shown online. <br>
+5] Most used word in reviews was probably dress
 
